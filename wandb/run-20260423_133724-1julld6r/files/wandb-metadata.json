@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.18362-SP0",
+  "python":  "CPython 3.13.5",
+  "startedAt":  "2026-04-23T10:37:24.009504Z",
+  "program":  "c:\\Users\\user\\Desktop\\DS_practice\\Lab 7 - Intro to deep learning.ipynb",
+  "codePath":  "c:\\Users\\user\\Desktop\\DS_practice\\Lab 7 - Intro to deep learning.ipynb",
+  "codePathLocal":  "Lab 7 - Intro to deep learning.ipynb",
+  "git":  {
+    "remote":  "https://github.com/melissaviolet/app_development.git",
+    "commit":  "d7cad9e299627d6a35bcfc6ae946f2a86585f082"
+  },
+  "email":  "melissavioletvs@gmail.com",
+  "root":  "c:\\Users\\user\\Desktop\\DS_practice",
+  "host":  "CYBERSPACE",
+  "executable":  "c:\\Users\\user\\Desktop\\DS_practice\\.venv\\Scripts\\python.exe",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "255382777856",
+      "used":  "155931996160"
+    }
+  },
+  "memory":  {
+    "total":  "8462397440"
+  },
+  "writerId":  "a0yrek2gz3flvjxtu9o8mq82qbf1rwfc"
+}
